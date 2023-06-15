@@ -1,3 +1,3 @@
-module main
+module example.com/playground
 
 go 1.18
