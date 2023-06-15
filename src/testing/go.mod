@@ -1,3 +1,3 @@
-module testing
+module mytesting
 
 go 1.18
